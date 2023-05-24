@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Property management",
+    'name': "Property Management",
 
     'summary': """
         Manage your buildings, floors, properties and contract""",
